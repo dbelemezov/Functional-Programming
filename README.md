@@ -1,1 +1,1 @@
-# Functional-Programming
+# Functional-Programming course, FMI
